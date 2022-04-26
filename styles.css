@@ -1,0 +1,10 @@
+.header{
+    background-color:AliceBlue;
+    border: 5px dashed CornflowerBlue;
+}
+
+li {
+list-style: none;}
+img {
+	width: 300px;
+}
